@@ -1,7 +1,8 @@
 # CSDNBlog-MFC-Image
 该资源为作者在CSDN撰写的MFC图像处理文章，希望对您有所帮助。
 
-参考文献为：
+## MFC图像处理
+具体内容如下：
 
 [【数字图像处理】一.MFC详解显示BMP格式图片](https://blog.csdn.net/Eastmount/article/details/18238863) <br />
 [【数字图像处理】 二.MFC单文档分割窗口显示图片](https://blog.csdn.net/Eastmount/article/details/18987539) <br />
