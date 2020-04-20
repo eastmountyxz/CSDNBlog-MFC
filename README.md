@@ -9,7 +9,9 @@
 
 撰写背景：该专栏主要是由于作者《数字图形处理》课程需要完成一个C++的图像处理软件而总结，里面的图像处理系列还是较为完整且底层的，推荐低年级的同学学习；后续又结合几个MFC项目进行了补充，最后是自己在《计算机图形学》课程中的实验，带着学生们完成。MFC是计算机相关专业学生入门的工具，还是挺有意思的，建议一定结合实例去做，希望这些文章对你有所帮助。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190928181932760.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Vhc3Rtb3VudA==,size_16,color_FFFFFF,t_70#pic_center =600x400)
+<div align="center">
+   <img src="https://img-blog.csdnimg.cn/20190928181932760.png" width="60%" height="60%" >
+</div>
 
 ## MFC基础知识
 
